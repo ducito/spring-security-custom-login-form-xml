@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="spring-security-custom-login-form-xml:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-security-custom-login-form-xml.war">
+      <element id="artifact" artifact-name="spring-security-custom-login-form-xml:war exploded" />
+    </root>
+  </artifact>
+</component>
